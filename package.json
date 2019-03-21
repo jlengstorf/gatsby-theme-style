@@ -1,0 +1,22 @@
+{
+  "name": "@jlengstorf/gatsby-theme-style",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby clean && GATSBY_GRAPHQL_IDE=playground gatsby develop"
+  },
+  "dependencies": {
+    "@jlengstorf/gatsby-theme-data": "^0.0.2"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.2.1",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "gatsby": "^2.2.1",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
