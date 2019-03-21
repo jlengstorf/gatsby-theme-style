@@ -762,10 +762,10 @@
     signedsource "^1.0.0"
     yargs "^9.0.0"
 
-"@jlengstorf/gatsby-theme-data@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@jlengstorf/gatsby-theme-data/-/gatsby-theme-data-0.0.2.tgz#6e40b5821e7f0e9325792301f486c3de5ba8b2cd"
-  integrity sha512-6L0MRmdFP4uEaMFwoG5+/bJVcJRidpUBlLHlLjNryN9RrjlOR4zXyLxCshP70o/VMGUPZNYRPUY77XId2oHocQ==
+"@jlengstorf/gatsby-theme-data@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@jlengstorf/gatsby-theme-data/-/gatsby-theme-data-0.0.3.tgz#54785eb0606f471b56a3dec32323d796d73d5b4e"
+  integrity sha512-8CUi75xFg92kzXpF5FRS7O2Mvp+uOW+EUfSPDU/Vslf4zVGRv48i7OG4W4gmatcMKY6R5k7RN7hkgJ8oXc9jlQ==
   dependencies:
     gatsby-plugin-compile-es6-packages "^1.0.6"
     gatsby-source-filesystem "^2.0.27"

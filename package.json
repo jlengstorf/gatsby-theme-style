@@ -7,7 +7,7 @@
     "develop": "gatsby clean && GATSBY_GRAPHQL_IDE=playground gatsby develop"
   },
   "dependencies": {
-    "@jlengstorf/gatsby-theme-data": "^0.0.2"
+    "@jlengstorf/gatsby-theme-data": "^0.0.3"
   },
   "peerDependencies": {
     "gatsby": "^2.2.1",
