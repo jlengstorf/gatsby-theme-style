@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'My Website'
   },
-  __experimentalThemes: ['gatsby-theme-data'],
+  __experimentalThemes: ['@jlengstorf/gatsby-theme-data'],
   plugins: [
     /*
      * We need to make sure that Webpack processes this theme as ES6, so we add
